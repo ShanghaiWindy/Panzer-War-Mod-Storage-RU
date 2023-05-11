@@ -1,6 +1,8 @@
 # Mod Download
 
 [How to install the mod? Click Here](https://github.com/Doreamonsky/Panzer-War-Lit-Mod)
+## .github
+
 ## Egor
 
 ### Android_Vehicle_Char2bis_modpack
@@ -75,6 +77,27 @@ Platform:Windows
 
 ## Gusss
 
+### Android_Vehicle_AMX_13_fl11_modpack
+
+
+Size:9.13MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/Android_Vehicle_AMX_13_fl11_modpack.modpack?raw=true)
+
+### Android_Vehicle_AMX_CDC_WoT_modpack
+
+
+Size:8.05MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/Android_Vehicle_AMX_CDC_WoT_modpack.modpack?raw=true)
+
+### Android_Vehicle_Caernarvon_AX_modpack
+
+
+Size:11.15MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/Android_Vehicle_Caernarvon_AX_modpack.modpack?raw=true)
+
 ### Android_Vehicle_IS-2_WoT_modpack
 
 IS-2_WoT by gusss
@@ -82,12 +105,47 @@ Size:8.58MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/Android_Vehicle_IS-2_WoT_modpack.modpack?raw=true)
 
+### Android_Vehicle_Ob907_3D_modpack
+
+
+Size:19.19MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/Android_Vehicle_Ob907_3D_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_AMX_13_fl11_modpack
+
+
+Size:11.08MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/StandaloneWindows64_Vehicle_AMX_13_fl11_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_AMX_CDC_WoT_modpack
+
+
+Size:8.88MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/StandaloneWindows64_Vehicle_AMX_CDC_WoT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_Caernarvon_AX_modpack
+
+
+Size:12.74MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/StandaloneWindows64_Vehicle_Caernarvon_AX_modpack.modpack?raw=true)
+
 ### StandaloneWindows64_Vehicle_IS-2_WoT_modpack
 
 IS-2_WoT by gusss
 Size:9.37MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/StandaloneWindows64_Vehicle_IS-2_WoT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_Ob907_3D_modpack
+
+
+Size:16.77MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/StandaloneWindows64_Vehicle_Ob907_3D_modpack.modpack?raw=true)
 
 ## Kerman-Mikhai
 
