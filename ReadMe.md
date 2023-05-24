@@ -149,6 +149,20 @@ Platform:Windows
 
 ## Kerman-Mikhai
 
+### Android_Vehicle-Bourrasque_MT_modpack
+
+Kerman's pack
+Size:8.41MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-Bourrasque_MT_modpack.modpack?raw=true)
+
+### Android_Vehicle-HT-130_WOT_modpack
+
+Kerman's pack
+Size:6.85MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-HT-130_WOT_modpack.modpack?raw=true)
+
 ### Android_Vehicle-IS-5_WOT_modpack
 
 Kerman's pack
@@ -169,6 +183,13 @@ Kerman's pack
 Size:1.59MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-O-47_WOT_modpack.modpack?raw=true)
+
+### Android_Vehicle-Ob_156_O_MT_modpack
+
+Kerman's pack
+Size:8.27MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-Ob_156_O_MT_modpack.modpack?raw=true)
 
 ### Android_Vehicle-SU-100M1_WOT_modpack
 
@@ -205,6 +226,20 @@ Size:7.19MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-T71_WOT_modpack.modpack?raw=true)
 
+### StandaloneWindows64_Vehicle-Bourrasque_MT_modpack
+
+Kerman's pack
+Size:10.36MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-Bourrasque_MT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-HT-130_WOT_modpack
+
+Kerman's pack
+Size:7.99MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-HT-130_WOT_modpack.modpack?raw=true)
+
 ### StandaloneWindows64_Vehicle-IS-5_WOT_modpack
 
 Kerman's pack
@@ -225,6 +260,13 @@ Kerman's pack
 Size:1.90MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-O-47_WOT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Ob_156_O_MT_modpack
+
+Kerman's pack
+Size:9.82MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-Ob_156_O_MT_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle-SU-100M1_WOT_modpack
 
