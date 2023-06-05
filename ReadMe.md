@@ -149,6 +149,20 @@ Platform:Windows
 
 ## Kerman-Mikhai
 
+### Android_Vehicle-116-F3_MT_modpack
+
+Kerman's pack
+Size:9.13MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-116-F3_MT_modpack.modpack?raw=true)
+
+### Android_Vehicle-AMX_M4_54_MT_modpack
+
+Kerman's pack
+Size:4.74MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-AMX_M4_54_MT_modpack.modpack?raw=true)
+
 ### Android_Vehicle-Bourrasque_MT_modpack
 
 Kerman's pack
@@ -225,6 +239,13 @@ Kerman's pack
 Size:7.19MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/Android_Vehicle-T71_WOT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-116-F3_MT-2_modpack
+
+Kerman's pack
+Size:11.36MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-116-F3_MT-2_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle-Bourrasque_MT_modpack
 
